@@ -48,6 +48,8 @@
             Console.WriteLine("Numero de vezes que não precisamos de rolagem plus: " + (rolagens.Length - RolagemPlus));
             Console.WriteLine("Numero de rolagensplus: " + RolagemPlus);
             Console.WriteLine("Numero de 9 ou mais com o d10: " + blablabla);
+            Console.Write("Aperte qualquer tecla para sair do programa ");
+            Console.ReadLine();
         }
     }
 }
